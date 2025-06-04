@@ -9,7 +9,7 @@
 |:---:|---|---|---|---|---|
 |qwen3 8b||||||
 |Bllossom 3b||||||
-|HyperCLOVAX-SEED-Text-Instruct-1.5B||||||
+|HyperCLOVAX Text 1.5B||||||
 
 
 평가 코드 : https://github.com/teddysum/korean_evaluation.git
