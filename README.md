@@ -11,7 +11,11 @@
 |Bllossom 3b||||||
 |HyperCLOVAX Text 1.5B||||||
 
+ - 선다형: Accuracy
+ - 단답형: EM
+ - 서술형: ROUGE, BERTScore, BLEURT
 
+   
 평가 코드 : https://github.com/teddysum/korean_evaluation.git
 
 
