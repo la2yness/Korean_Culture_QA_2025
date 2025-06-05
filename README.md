@@ -5,11 +5,12 @@
 추론 실행 방법(How to Run)은 아래에서 확인하실 수 있습니다.
 
 ### Baseline
-|Model|Accuracy|Exact Match|ROUGE|BERTScore|BLEURT|
-|:---:|---|---|---|---|---|
-|qwen3 8b||||||
-|Bllossom 3b||||||
-|HyperCLOVAX Text 1.5B||||||
+|           Model           | Accuracy | Exact Match | ROUGE-1 | BERTScore | BLEURT | Descriptive Avg | Final Score |
+| :-----------------------: | :------: | :---------: | :-----: | :-------: | :----: | :-------------: | :---------: |
+|        **Qwen-8B**        |  0.4715  |    0.4118   |  0.4109 |   0.7198  | 0.5450 |      0.5586     |    0.4806   |
+|      **Bllossom-3B**      |  0.2487  |    0.1471   |  0.3479 |   0.6893  | 0.5241 |      0.5204     |    0.3054   |
+| **HyperCLOVAX Text 1.5B** |  0.4922  |    0.2941   |  0.3076 |   0.7057  | 0.5325 |      0.5153     |    0.4339   |
+
 
  - 선다형: Accuracy
  - 단답형: EM
