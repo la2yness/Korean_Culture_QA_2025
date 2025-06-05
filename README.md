@@ -55,10 +55,10 @@ src
 ### Inference
 ```
 python -m run.test \
-    --input $testset \
-    --output $output \
-    --model_id $model \
-    --device cuda:1 \
+    --input resource/QA/sample.json \
+    --output result.json \
+    --model_id Bllossom/llama-3.2-Korean-Bllossom-3B \
+    --device cuda:0 \
 ```
 
 
